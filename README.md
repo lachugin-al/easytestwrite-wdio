@@ -177,4 +177,4 @@ iOS caps/services (macOS):
 
 ## License
 
-TODO: Add a LICENSE file (e.g., MIT) and update this section.
+This project is licensed under the MIT License - see the LICENSE file for details.
